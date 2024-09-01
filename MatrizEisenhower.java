@@ -39,7 +39,7 @@ public class MatrizEisenhower {
             } else if (respuesta.equals("no")) {
                 return false;
             } else {
-                System.out.println("Respuesta no válida. Por favor, ingrese 's' o 'n'.");
+                System.out.println("Respuesta no válida. Por favor, ingrese 'si' o 'no'.");
             }
         }
     }
